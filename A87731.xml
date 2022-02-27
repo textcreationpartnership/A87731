@@ -1,0 +1,385 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning from the Lord to the teachers &amp; people of Plimovth. With a few queries to the parish teachers of this nation, that have great sums of money for teaching the people. / From them which are scornfully called Qvakers, but witness the teaching of Christ.</title>
+            <title>Warning from the Lord to the teachers &amp; people of Plimouth.</title>
+            <author>Killam, Margaret, d. 1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87731</idno>
+            <idno type="STC">Wing K473</idno>
+            <idno type="STC">Thomason E861_14</idno>
+            <idno type="STC">ESTC R206660</idno>
+            <idno type="EEBO-CITATION">99865776</idno>
+            <idno type="PROQUEST">99865776</idno>
+            <idno type="VID">168354</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168354)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E861[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning from the Lord to the teachers &amp; people of Plimovth. With a few queries to the parish teachers of this nation, that have great sums of money for teaching the people. / From them which are scornfully called Qvakers, but witness the teaching of Christ.</title>
+                  <title>Warning from the Lord to the teachers &amp; people of Plimouth.</title>
+                  <author>Killam, Margaret, d. 1672.</author>
+                  <author>Patison, Barbara.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, and are to be sold at his shop at the Black-spread-Eagle, neer the west end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656 [i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Them which are scornfully called Qvakers" = Margaret Killin and Barbara Patison.</note>
+                  <note>Thomason apparently received his copy in 1655.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 29 1655"; the second 6 in the imprint date has been crossed out and replaced with a "5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Plymouth (England) --  Religion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168354:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <p>A WARNING FROM THE LORD TO THE <hi>TEACHERS &amp; PEOPLE</hi> OF
+PLIMOVTH. With a few QUERIES TO The Pariſh Teachers of this Nation, that have
+great ſums of money for teaching the people.</p>
+            <p>
+               <hi>From them which are ſcornfully called QVAKERS, but
+witneſs the Teaching of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> and are to
+be ſold at his Shop at the Black-ſpread-Eagle, neer the weſt end of
+<hi>Pauls,</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <head> 
+            <pb facs="tcp:168354:2"/>
+            <!-- PDF PAGE 37 -->
+            <pb n="1" facs="tcp:168354:2"/>
+            <!-- PDF PAGE 37 -->
+A <hi>VVARNING</hi> FROM THE LORD to the Teachers and people OF
+<hi>PLIMO<g ref="char:V">Ʋ</g>TH, &amp;c.</hi>
+         </head>
+         <div type="part">
+            <head>The word of the Lord to the Teachers and people of
+Plymouth.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Eare the living God, and repent while you have time, &amp;
+hearken to that in your conſcience, which cryes for equity: Is there not
+ſomething within you that cries for it? Oh I liſten to it, that the bonds
+of iniquity may be broken, that equity (which is oppreſſed in you) may go
+free to ſerve the Lord; for behold, thus ſaith the Lord, I have ſent my
+Sons and Daughters from far, I have raiſed up Prophets amongſt you, I have
+placed my witneſs in you, which ſhall ſtand for ever with, or againſt
+you. But ſome of my Meſſengers you have impriſoned, and others you have
+evill entreated; what could I have done more for you than I have done, ſaith
+the Lord? But you have rejected all my counſell, and ſlighted the day of
+your Viſitation, and would none of my reproof; and would not that I ſhould
+Reign over you: Therefore behold, thus ſaith the Lord, I will proceed in
+judgement againſt you, and there ſhall be none to deliver you out of my
+hand, ſaith the Lord, for in as much as you have re<g ref="char:EOLhyphen"/>jected my counſell, and
+kickt againſt my reproof, I will reject you, I will not hear your prayers,
+for they are an abomination to me; and the ſongs of your temple ſhall be
+turned into how<g ref="char:EOLhyphen"/>ling, your feaſting into faſting, your myrth into
+ſadneſs, for your Sabboths and appointed ſeaſons are a burden to me, I
+am weary with them, ſaith the Lord, and my ſoul ſhall be avenged 
+<pb n="2" facs="tcp:168354:3"/>
+               <!-- PDF PAGE 38 -->on ſuch a generation as this
+is, for the Poor is oppreſſed by the Rich, and the cry of the poor is
+entred into my ear, ſaith the Lord, therefore will I eaſe me of my enemies,
+ſaith the Lord, and avenge me of my adverſaties; for the great day of the
+Lord is coming, in which you muſt give an account for what is done in the
+body, whether it be good or evill, and he wil plead with you by ſword and by
+fire, and he will cut you down, O ye fruitleſs Trees! and burn you up root
+and branch, even you, which live in pride and earthly mindedneſs, and feed
+upon daintie Diſhes, <hi>Dives</hi>-like; Oh remember <hi>Dives</hi> end! and
+<hi>La<g ref="char:EOLhyphen"/>zarus</hi> who was in <hi>Abrahams</hi> boſome, for the ſins of
+<hi>Sodome</hi> a<g ref="char:EOLhyphen"/>bound amongſt you, idleneſs and fulneſs of bread; it
+shall be more tollerable for <hi>Sodome</hi> and <hi>Gomorrah</hi> in the day
+of Judg<g ref="char:EOLhyphen"/>ment than for you, for if the mightie works had been done a<g ref="char:EOLhyphen"/>mongſt
+them, they would have repented.</p>
+            <p>Behold, I have done a wondrous work amongſt you, and you ſee
+and cannot believe, but bleſſed are they that have not ſeen and yet have
+believed. You cry out for a ſign, but there ſhall be none given you, for
+you are a proud, ſtiff-necked, and haughtie people, but your loftie looks
+ſhall be brought down, and the Lord alone ſhall be exalted, the mouth of
+the Lord hath ſpoken it.</p>
+            <p>Howle ye Rich men, for the miſery which is coming upon you, for
+the ruſt of your Silver and Gold ſhall eat you thorow as a Canker, and
+ſhal riſe up in judgement againſt you.</p>
+            <p>Howle ye proud Prieſts, for the miſery that is coming upon
+you, for ye ſhall run to and fro, as drunken men, and none ſhall be to
+pitie you. Wo to you that have fed your ſelves with the fat, and cloathed
+your ſelves with the wool, and the peo<g ref="char:EOLhyphen"/>ple periſh for want of knowledge; ye
+run and I never ſent you, ſaith the Lord, therefore ye ſhall not profit
+the people at all: If ye had ſtood in my counſell, ye ſhould have turned
+many a<g ref="char:EOLhyphen"/>waie from the evill of his doings, but becauſe ye have departed out of
+my counſel, I wil ſpread dung on your faces, yea I have caſt dung on your
+faces alreadie; and now the falſe Prophet rides on the beaſt, but they both
+ſhall be caſt into the Lake, which is prepared for the devill and his
+angells.</p>
+            <p>And wo to all you corrupt Magiſtrates, who are perſecuting 
+<pb n="3" facs="tcp:168354:3"/>
+               <!-- PDF PAGE 38 -->the innocent &amp; the juſt,
+witneſs your practiſe at Exeter Priſon; it had been better that a
+Mil-ſtone had been hung about your necks, and you caſt into the ſea, than
+to have offended one of thoſe little ones.</p>
+            <p>Therefore thus ſaith the Lord, I wil be avenged upon you my
+adverſaries; though the wicked go on hand in hand, they ſhal not go
+unpuniſhed. Wo to all you covetous Merchants and tradeſmen, of what ſort
+ſoever, who with faire words deceive the ſimple, contrarie to that in your
+conſcience, which ſhews you ſhould not lie, but ſpeak the truth one to
+another, for that is the true Light, and the witneſs of God, which
+teſtifies againſt ſin and evill, and is the condemnation of all ſuch as
+act contra<g ref="char:EOLhyphen"/>rie to it.</p>
+            <p>Wo to all you covetous Lawyers, Drunkards, Swearers, Whoremongers,
+Adulterers, and all that telleth and maketh a lie, no ſuch ſhall inherit
+the kingdome of heaven. Wo to all you that ſpeak evil of things you know
+not.</p>
+            <p>Wo to all you that are ſeparated, but not by my ſpirit, and
+covered with a covering, but not with my ſpirit. Wo to all you proud and
+luſtfull ones, who feeds on dainty diſhes, and ſpends the creation upon
+their luſts. Cumber not the ground ye fruitleſs trees, for the Lord God of
+life and power is come to judge the world in righteouſneſs, and to ſweep
+the Land of evil-doers, that the earth may enjoy her Sabboths; and tetrible wil
+his coming be to the wicked, to all that are found to act contrarie to that in
+their conſcience; for all faces ſhall gather paleneſs before him, and all
+mouthes ſhall be ſtopt, and none ſhall plead ignorance, nor ſay they
+knew not that they ſhould not lie, ſwear, back bite, or be proud, for ye
+know ye ſhould not do ſo by the Light: therefore all people be warned, and
+to the Light return, this is the waie to ſalvation, repent, while ye have
+time priſe it, flight not the daie of your viſitati<g ref="char:EOLhyphen"/>on, leaſt the Lord
+pluck ye awaie ſuddenlie, and you go down into the pit, and there be no
+remedie, and there be none to deliver you out of my hands. And this is the word
+of the Lord God to you all, chuſe whether you wil hear or forbear, I have
+cleared my conſcience to you, that in your conſciences ſhall witneſs
+for me eternallie, when the book of conſcience is ope<g ref="char:EOLhyphen"/>ned, 
+<pb n="4" facs="tcp:168354:4"/>
+               <!-- PDF PAGE 39 -->and ſhall condemn all you that
+are contrary to it.</p>
+            <closer>
+               <signed>From one who is a lover of your ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uls, and ſhould rejoyce to hear that
+any of you is turned from the evill of his doings: 
+Margret Killin.</signed>
+            </closer>
+            <postscript>
+               <p>Yee Inhabitants of <hi>Plymouth,</hi> remember and
+conſider this, that the waie of the Ranſomed, the Redeemed ones, ye know
+not, whoſe feet are turned out of the path of the Juſt.</p>
+               <closer>
+                  <signed>Barbara Patiſon.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="part">
+            <head>Queries to the Pariſh-teachers of this Nation, who have great
+Sums of Money for teaching the people.</head>
+            <p n="1">
+               <hi>Que:</hi> 1. What is the ground and cauſe, and
+reaſon of your people to obſerve the time, called Eaſter, Whitſuntide,
+and Chriſtmas, as it is called by you and your people, which are your
+Flock?</p>
+            <p n="2">2. What is the cauſe, and ground, and reaſon, that
+againſt ſuch times aforeſaid, they deck themſelves with new ſutes of
+Apparel, and have ſome certain Play-Daies, and much deſtroy<g ref="char:EOLhyphen"/>ing of the
+creatures at thoſe times, upon the luſts of the peo<g ref="char:EOLhyphen"/>ple, which are your
+Flock?</p>
+            <p n="3">3. What is the ground, and cauſe, and reaſon, that about
+the time called Chriſtmas, there is ſo much provided of the creatures, that
+which the people calls good Chear, which a<g ref="char:EOLhyphen"/>bundance is provided againſt that
+time, and waſted upon the luſt, and deſtroyed, and this is in moſt
+places through the Na<g ref="char:EOLhyphen"/>tion, amongſt the pariſh-Teachers, people, which are
+your Flock?</p>
+            <p n="4">4. What is the ground, and cauſe, and reaſon, why people
+diſguiſe themſelves, and play at Gold-games, as they call them, and have
+Waſſel-Cups, as they call them, in the time cal<g ref="char:EOLhyphen"/>led Chriſtmas, and ſo
+much great doings at houſes, called Gen<g ref="char:EOLhyphen"/>tlemens houſes, at that time; ſo
+we deſire you which calls your ſelves Miniſters and Orthodox men, to give
+the ground out <pb n="5" facs="tcp:168354:4"/>
+               <!-- PDF PAGE 39 -->of Scripture, for
+the things that your people practiſe, out of the Apoſtles practiſe, and
+where Chriſt or his Apoſtles com<g ref="char:EOLhyphen"/>manded anie ſuch things: give us ſome
+example out of Scrip<g ref="char:EOLhyphen"/>ture for ſuch things before mentioned, which your people
+practiſe, and whether this be a good example, to eat and drink and riſe to
+play? and whether it be not forbidden in the Scrip<g ref="char:EOLhyphen"/>ture, yea or no? 1
+<hi>Cor.</hi> 10.7:</p>
+            <p n="5">5: Whether ſuch as live wantonlie on the earth, ſporting
+themſelves in the daie time, are not them that live in hipocri<g ref="char:EOLhyphen"/>ſie,
+ſpeaking high ſwelling words of vanity, and ſuch as kills the juſt, who
+lives in wantonneſs upon the earth? and whether ſuch as lives in
+pleaſures are not dead while they live, yea or nay? 2. <hi>Tim</hi> 5, 6.</p>
+            <p n="6">6. Whether ſuch as provide ſo much of the creatures
+againſt thoſe times, called, Eaſter, Whitſuntide, and Chriſtmas, be
+not ſuch as the God of the world hath blinded their eies, who minde earthlie
+things, whoſe God is their bellie, and in their ſhame they glorie,
+<hi>Theſſ:</hi> 3.19:</p>
+            <p n="7">7: Whether ſuch as live in thoſe things before
+mentioned, ſhal not periſh in their own corruptions? And you that profeſs
+your ſelves to be ſent of Chriſt to watch for the peoples ſouls, and
+your people lives in theſe things, whether their blood wil not be required at
+your hands, yea or nay? Ezek. 7:18.</p>
+            <p n="8">8: Whether all theſe obſervations of theſe times,
+Chriſtmas, Eaſter, and Whitſuntide, the fine apparel made againſt
+theſe times, the fine Diet, and paſt-times, and pleaſures in theſe
+things, whether all theſe be not pleaſing to the flesh, yea or nay? And
+whether thoſe that obſerve the daie and profeſs the name, be not they
+that crucifie the life, yea or nay? whenas the Apoſtle ſaid, <hi>I am
+afraid of you, leaſt I have bestowed upon you labour in vain, Gal.</hi> 4.10,
+11.</p>
+            <p>And this is for all the naturall Teachers to anſwer, and to give
+grounds from the Scripture why they obſerve theſe things before mentioned,
+or where the Apoſtles did obſerve any of the Saints daies, either
+<hi>Matthew Mark, Luke,</hi> or <hi>Iohn, Peter, Iames,</hi> or any other:</p>
+            <p>I am the light of the world, and lighteth every man that com<g ref="char:EOLhyphen"/>eth
+into the world, ſaith Chriſt, that all men through him 
+<pb n="6" facs="tcp:168354:5"/>
+               <!-- PDF PAGE 40 -->might believe; and this is the
+Light which ſhews you ſin and evill, which if you love the light, you love
+Chriſt, if you hate the light, you hate Chriſt, whoſe deeds are evil, and
+you know your deeds to be evill; with the Light which comes from Chriſt, who
+ſaith, learn of me, I am the way, and the truth, and the life, &amp; no man
+cometh to the Father but by me who owns the light that every man is enlightned
+withall, nor none believs in the truth but who believes in the Light, that
+lighteth every man that commeth into the world, that they might belive; &amp;
+all they that profeſs the Scriptures, &amp; profes a belief, &amp; do not
+believe in the light, they are all as as the ſcribes &amp; phari<g ref="char:EOLhyphen"/>ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, who profeſsed the ſcriptures,
+&amp; a belief in God, &amp; Chriſt that was to come &amp; did not believ in
+the light: therefore to the light in every one of your I ſpeak which come
+from Chriſt, who ſaith, learn of me, I am the way to the father; &amp; here
+you wil find your teacher, which wil bring you of of all your teachers of the
+world, lying on your beds, and going up and down about your occaſions, if you
+love it, if you hate it, here is your condemnation, the Light.</p>
+            <p>I am the Light of the world, and lighteth every man that cometh
+into the world, ſaith Chriſt; learn of me, I am the way to the Father, no
+man cometh to the Father but by me, who lighteth every one that cometh into the
+world, that all men through him might believe; and this is the Light that
+ſhews you ſin and evill, that you ſhould not lye nor ſwear, nor be
+drunk nor take Gods name in vain, and ſhews you evill thoughts, evill
+notions, &amp; evill deſires; this is the Light that comes from Chriſt, who
+ſaith, learn of me; this teacher you wil find as you are lying in your beds,
+and as you are going up and down, and when they ſay, lo here is Chriſt,
+&amp; lo there is Chriſt, you need not go forth: it wil bring you to ceaſ
+from all the hirelings which Chriſt ſpeaks of, and bring you to ceaſe
+from all who have the chiefeſt places in the aſſemblies, and ſtand
+praying in the Synagogues, which Chriſt cryed wo a<g ref="char:EOLhyphen"/>gainſt, <hi>Mat.</hi>
+23. &amp; to forſake all ſuch as are ſeeking for the fleece, which the
+Lord ſent <hi>Ezekiel</hi> to cry againſt, <hi>Ezek.</hi> 34. and to
+forſake all ſuch prophets &amp; prieſts as bear rule by their means,
+which the Lord ſent <hi>Ieremiah</hi> to cry a<g ref="char:EOLhyphen"/>gainſt, <hi>Ier.</hi> 5. and
+to forſake all ſuch as ſeek for their gain from their quarter, which the
+Lord ſent <hi>Iſaiah</hi> to cry againſt <hi>Iſa.</hi> 56. and to
+forſake all ſuch as divine for money, &amp; make a prey upon the people,
+which the Lord ſent <hi>Micah</hi> to cry againſt, <hi>Mic.</hi> 3. theſe
+was in the light, which cried againſt the falſe tea<g ref="char:EOLhyphen"/>chers before mentioned;
+&amp; thoſe which be in the lightnow cannot hold them up that hears Chriſt,
+&amp; obeys the commands of God, who ſaith, this is my be<g ref="char:EOLhyphen"/>loved ſon, hear
+him, &amp; all the children of the Lord are taught of him, as you may read in
+<hi>Iſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h:</hi> the miniſters of the world
+they ſay the letter is the light, the Scriptures is the word, the ſteeple
+houſe is the Church, ſprinckling of in<g ref="char:EOLhyphen"/>fants the baptiſm, which is
+contrary to the Scriptures, which ſaith, <hi>the Church is in God.
+Theſſ.</hi> 1.1. <hi>God is the word<g ref="char:punc">▪</g> Chriſt is the light, Ioh.</hi>
+1. And the Saints wit<g ref="char:EOLhyphen"/>neſſed the <hi>one baptiſm, by one ſpirit, into
+one body;</hi> and theſe are contrary to the ſcriptures, therefore who are
+taught of God denies their teachings &amp; practiſe who through feigned words
+&amp; covetouſneſs makes merchandiſe of the people goes in the way of
+<hi>Cain,</hi> &amp; after the error of <hi>Balaam,</hi> who preaches for gifts
+&amp; rewards, as you may read in <hi>Peter,</hi> in <hi>Iude,</hi> and the
+laſt chap of the <hi>Romans.</hi>
+            </p>
+            <p>
+               <hi>From them who are ſcornfully called</hi> Quakers, <hi>but
+witneſs the teaching of Chriſt.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
